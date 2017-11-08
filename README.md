@@ -26,7 +26,7 @@ Add as parent project in the `pom.xml` file:
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-maven-plugin-parent</artifactId>
-		<version>1.0.0</version>
+		<version>1.1.0</version>
 		<relativePath></relativePath>
 	</parent>	
 ```
